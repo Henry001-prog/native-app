@@ -29,7 +29,7 @@ export default function Profile({ navigation }) {
 
   return (
     <Container>
-      <Avatar source={{ url: userData.avatar_url }} />
+      <Avatar source={{ uri: userData.avatar_url }} />
       <Name>{userData.login}</Name>
       <Content>
         <View style={{ flexDirection: "row", alignItems: "center" }}>

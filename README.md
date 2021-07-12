@@ -1,3 +1,9 @@
+<h1 align="center">GitHub App</h1>
+
+<p align="center">
+  <img src="/photos/github_app.gif" height="740" width="350"/>
+</p>
+
 # Descrição do projeto:
 
 Aplicação desenvolvida em React Native utilizando o expo, uma ferramenta utilizada no desenvolvimento mobile com React Native 

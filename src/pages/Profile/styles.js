@@ -35,6 +35,6 @@ export const Followers = styled.Text`
 
 export const Content = styled.View`
   width: 80px;
-  align-items: stretch
+  align-items: stretch;
   justify-content: space-between;
 `;
